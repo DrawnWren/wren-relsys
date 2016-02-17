@@ -1,4 +1,4 @@
-(defproject {{name}} "0.1.0-SNAPSHOT"
+(defproject {{name}} "0.1.0"
   :description "Imagine all the people living life in peace"
   :url "Nothing special here."
   :license {:name "La dee da V3"
